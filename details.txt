@@ -4,3 +4,5 @@
 *angular
 *web api
 *sql server
+*typescript
+*javascript
