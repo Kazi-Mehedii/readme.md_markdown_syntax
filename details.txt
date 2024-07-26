@@ -6,3 +6,4 @@
 *sql server
 *typescript
 *javascript
+*C#
