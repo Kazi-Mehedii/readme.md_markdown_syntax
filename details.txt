@@ -1,0 +1,6 @@
+1.I am Software developer.
+2.skill
+*asp.net
+*angular
+*web api
+*sql server
